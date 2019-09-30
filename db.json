@@ -1,5 +1,8 @@
-{
+{   
     "catalogo":[
+        {"id":1,"nombre":"meses","Meses del año" }
+               ],
+    "detalle":[
         {"id":1,"Descripcion":"Enero","Descripcion_2":"ENE.","Descripcion_3":"1","catalogo_id":1},
         {"id":2,"Descripcion":"Febrero","Descripcion_2":"FEB.","Descripcion_3":"2","catalogo_id":1},
         {"id":3,"Descripcion":"Marzo","Descripcion_2":"MAR.","Descripcion_3":"3","catalogo_id":1},
