@@ -1,16 +1,16 @@
 {
     "catalogo":[
-        {id:1,Descripcion:"Enero",Descripcion_2:"ENE.",Descripcion_3:"1",catalogo_id:1,catalogo:"meses"},
-        {id:2,Descripcion:"Febrero",Descripcion_2:"FEB.",Descripcion_3:"2",catalogo_id:1,catalogo:"meses"},
-        {id:3,Descripcion:"Marzo",Descripcion_2:"MAR.",Descripcion_3:"3",catalogo_id:1,catalogo:"meses"},
-        {id:4,Descripcion:"Abril",Descripcion_2:"ABR.",Descripcion_3:"4",catalogo_id:1,catalogo:"meses"},
-        {id:5,Descripcion:"Mayo",Descripcion_2:"MAY.",Descripcion_3:"5",catalogo_id:1,catalogo:"meses"},
-        {id:6,Descripcion:"Junio",Descripcion_2:"JUN.",Descripcion_3:"6",catalogo_id:1,catalogo:"meses"},
-        {id:7,Descripcion:"Julio",Descripcion_2:"JUL.",Descripcion_3:"7",catalogo_id:1,catalogo:"meses"},
-        {id:8,Descripcion:"Agosto",Descripcion_2:"AGO.",Descripcion_3:"8",catalogo_id:1,catalogo:"meses"},
-        {id:9,Descripcion:"Septiembre",Descripcion_2:"SEP.",Descripcion_3:"9",catalogo_id:1,catalogo:"meses"},
-        {id:10,Descripcion:"Octubre",Descripcion_2:"OCT.",Descripcion_3:"10",catalogo_id:1,catalogo:"meses"},
-        {id:11,Descripcion:"Noviembre",Descripcion_2:"NOV.",Descripcion_3:"11",catalogo_id:1,catalogo:"meses"},
-        {id:12,Descripcion:"Diciembre",Descripcion_2:"DIC.",Descripcion_3:"12",catalogo_id:1,catalogo:"meses"}
+        {"id":1,"Descripcion":"Enero","Descripcion_2":"ENE.","Descripcion_3":"1","catalogo_id":1},
+        {"id":2,"Descripcion":"Febrero","Descripcion_2":"FEB.","Descripcion_3":"2","catalogo_id":1},
+        {"id":3,"Descripcion":"Marzo","Descripcion_2":"MAR.","Descripcion_3":"3","catalogo_id":1},
+        {"id":4,"Descripcion":"Abril","Descripcion_2":"ABR.","Descripcion_3":"4","catalogo_id":1},
+        {"id":5,"Descripcion":"Mayo","Descripcion_2":"MAY.","Descripcion_3":"5","catalogo_id":1},
+        {"id":6,"Descripcion":"Junio","Descripcion_2":"JUN.","Descripcion_3":"6","catalogo_id":1},
+        {"id":7,"Descripcion":"Julio","Descripcion_2":"JUL.","Descripcion_3":"7","catalogo_id":1},
+        {"id":8,"Descripcion":"Agosto","Descripcion_2":"AGO.","Descripcion_3":"8","catalogo_id":1},
+        {"id":9,"Descripcion":"Septiembre","Descripcion_2":"SEP.","Descripcion_3":"9","catalogo_id":1},
+        {"id":10,"Descripcion":"Octubre","Descripcion_2":"OCT.","Descripcion_3":"10","catalogo_id":1},
+        {"id":11,"Descripcion":"Noviembre","Descripcion_2":"NOV.","Descripcion_3":"11","catalogo_id":1},
+        {"id":12,"Descripcion":"Diciembre","Descripcion_2":"DIC.","Descripcion_3":"12","catalogo_id":1}
     ]
 }
